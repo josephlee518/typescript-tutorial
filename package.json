@@ -1,0 +1,22 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "Typescript 튜토리얼들",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephlee518/typescript-tutorial.git"
+  },
+  "author": "SEUNGWOO LEE",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/josephlee518/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/josephlee518/typescript-tutorial#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
